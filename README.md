@@ -35,6 +35,10 @@ Builder based in Seattle. I work on AI agents, developer tools, and data infrast
 
 [chicoryai](https://github.com/chicoryai) &#183; [sarkar-chicory](https://github.com/sarkar-chicory) &#183; [sarkar-ai-taken](https://github.com/sarkar-ai-taken) &#183; [TryCarbonara](https://github.com/TryCarbonara)
 
+**[sarkar-chicory](https://github.com/sarkar-chicory)**
+
+<img src="gh-sarkar-chicory-2024.png" alt="sarkar-chicory contributions 2024" width="400"> <img src="gh-sarkar-chicory-2025.png" alt="sarkar-chicory contributions 2025" width="400">
+
 ---
 
 ### Publications
