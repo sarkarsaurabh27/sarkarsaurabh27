@@ -18,6 +18,7 @@ Builder based in Seattle. I work on AI agents, developer tools, and data infrast
 
 **Developer Tools**
 
+- [Azure Dev Spaces](https://github.com/Azure/dev-spaces) — Kubernetes inner-loop development tooling for Azure (succeeded by Bridge to Kubernetes) `Go`
 - [Gen AI Local Shell](https://github.com/sarkarsaurabh27/gen-shell) — Generative AI-based CLI assistant tool `Python`
 - [Claude Code SDK](https://github.com/chicoryai/claude-code-sdk-python) — Python SDK for Claude Code `Python`
 - [Developer Fatigue](https://github.com/sarkarsaurabh27/Fatigue-Tool) — Research tool for measuring developer fatigue `Java`
@@ -38,6 +39,8 @@ Builder based in Seattle. I work on AI agents, developer tools, and data infrast
 **[sarkar-chicory](https://github.com/sarkar-chicory)**
 
 <img src="gh-sarkar-chicory-2024.png" alt="sarkar-chicory contributions 2024" width="400"> <img src="gh-sarkar-chicory-2025.png" alt="sarkar-chicory contributions 2025" width="400">
+
+**[saurabsa](https://github.com/saurabsa)**
 
 ---
 
