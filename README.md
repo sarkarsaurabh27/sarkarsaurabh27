@@ -26,7 +26,7 @@ Builder based in Seattle. I work on AI agents, developer tools, and data infrast
 
 - [Carbonara](https://github.com/TryCarbonara/trycarbonara.github.io) — Carbon footprint measurement for cloud infrastructure `JavaScript` `TypeScript`
 - [Forecast Your Trip](https://www.forecastyourtrip.co/) — Plan trips based on weather preferences &nbsp;·&nbsp; [Facebook](https://www.facebook.com/forecastyourtrip) &nbsp;·&nbsp; [GitHub](https://github.com/sarkarsaurabh27/ForecastYourTrip)
-- [OneMoment](https://github.com/sarkarsaurabh27/OneMomentWebApp) — Real-time event discovery platform `JavaScript` `Go`
+- [OneMoment](https://github.com/sarkarsaurabh27/OneMomentWebApp) — Real-time event discovery platform `JavaScript` `Go` &nbsp;·&nbsp; [Instagram](https://www.instagram.com/one.moment.live)
 - [Brute Force Defense](https://play.google.com/store/apps/details?id=com.sarkar.security.bruteforcedefense&hl=en) — Security app for Android / MS Band `Android` &nbsp;·&nbsp; [GitHub](https://github.com/sarkarsaurabh27/BruteForceDefense)
 
 ---
