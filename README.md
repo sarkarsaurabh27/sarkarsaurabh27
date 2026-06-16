@@ -14,6 +14,7 @@ Builder based in Seattle. I work on AI agents, developer tools, and data infrast
 - [Deskmate](https://github.com/sarkar-ai-taken/deskmate) — Control your device from anywhere using natural language `TypeScript`
 - [Riva](https://github.com/sarkar-ai-taken/riva) — Local-first observability and control plane for AI agents `Python`
 - [Agentic Framework Study](https://github.com/sarkar-chicory/agentic-frameworks-study) — Comparative study of agentic AI frameworks
+- [Agent Loop Learning](https://github.com/sarkarsaurabh27/agent-loop-learning) - A reference library and skill toolkit for auditing, reviewing, and improving LLM-based agent systems
 - Presentation Buddy — AI-powered presentation assistant
 
 **Developer Tools**
@@ -29,6 +30,7 @@ Builder based in Seattle. I work on AI agents, developer tools, and data infrast
 - [Forecast Your Trip](https://www.forecastyourtrip.co/) — Plan trips based on weather preferences &nbsp;·&nbsp; [Facebook](https://www.facebook.com/forecastyourtrip) &nbsp;·&nbsp; [GitHub](https://github.com/sarkarsaurabh27/ForecastYourTrip)
 - [OneMoment](https://github.com/sarkarsaurabh27/OneMomentWebApp) — Real-time event discovery platform `JavaScript` `Go` &nbsp;·&nbsp; [Instagram](https://www.instagram.com/one.moment.live)
 - [Brute Force Defense](https://play.google.com/store/apps/details?id=com.sarkar.security.bruteforcedefense&hl=en) — Security app for Android / MS Band `Android` &nbsp;·&nbsp; [GitHub](https://github.com/sarkarsaurabh27/BruteForceDefense)
+- [Simulation Miner](https://github.com/light-valley-ai/simminer) - Infrastructure for AI-native photonics workflows
 
 ---
 
