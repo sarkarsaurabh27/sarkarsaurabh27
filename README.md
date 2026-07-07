@@ -10,19 +10,22 @@ Builder based in Seattle. I work on AI agents, developer tools, and data infrast
 
 **AI & Agents**
 
+- [Agent Loop Learning](https://github.com/sarkarsaurabh27/agent-loop-learning) - A reference library and skill toolkit for auditing, reviewing, and improving LLM-based agent systems
+- [Agentic Framework Study](https://github.com/sarkar-chicory/agentic-frameworks-study) — Comparative study of agentic AI frameworks
 - [Chicory](https://github.com/chicoryai/chicory) — Open source AI agent platform for data teams `Python`
 - [Deskmate](https://github.com/sarkar-ai-taken/deskmate) — Control your device from anywhere using natural language `TypeScript`
 - [Riva](https://github.com/sarkar-ai-taken/riva) — Local-first observability and control plane for AI agents `Python`
-- [Agentic Framework Study](https://github.com/sarkar-chicory/agentic-frameworks-study) — Comparative study of agentic AI frameworks
-- [Agent Loop Learning](https://github.com/sarkarsaurabh27/agent-loop-learning) - A reference library and skill toolkit for auditing, reviewing, and improving LLM-based agent systems
+- [Simulation Data Miner (simminer)](https://github.com/light-valley-ai/simminer) - Infrastructure for AI-native photonics workflows
 - Presentation Buddy — AI-powered presentation assistant
+- Agent Harness Board - A message board for resource allocation management.
+
 
 **Developer Tools**
 
 - [Azure Dev Spaces](https://github.com/Azure/dev-spaces) — Kubernetes inner-loop development tooling for Azure (succeeded by Bridge to Kubernetes) `Go`
-- [Gen AI Local Shell](https://github.com/sarkarsaurabh27/gen-shell) — Generative AI-based CLI assistant tool `Python`
 - [Claude Code SDK](https://github.com/chicoryai/claude-code-sdk-python) — Python SDK for Claude Code `Python`
 - [Developer Fatigue](https://github.com/sarkarsaurabh27/Fatigue-Tool) — Research tool for measuring developer fatigue `Java`
+- [Gen AI Local Shell](https://github.com/sarkarsaurabh27/gen-shell) — Generative AI-based CLI assistant tool `Python`
 
 **Apps & Platforms**
 
@@ -36,13 +39,18 @@ Builder based in Seattle. I work on AI agents, developer tools, and data infrast
 
 ### Also me on GitHub
 
-[chicoryai](https://github.com/chicoryai) &#183; [sarkar-chicory](https://github.com/sarkar-chicory) &#183; [sarkar-ai-taken](https://github.com/sarkar-ai-taken) &#183; [TryCarbonara](https://github.com/TryCarbonara)
+[chicoryai](https://github.com/chicoryai) &#183; [sarkar-chicory](https://github.com/sarkar-chicory) &#183; [sarkar-ai-taken](https://github.com/sarkar-ai-taken) &#183; [TryCarbonara](https://github.com/TryCarbonara) &#183; [Light Valley](https://github.com/light-valley-ai)
 
+Chicory:
 **[sarkar-chicory](https://github.com/sarkar-chicory)**
 
 <img src="gh-sarkar-chicory-2024.png" alt="sarkar-chicory contributions 2024" width="400"> <img src="gh-sarkar-chicory-2025.png" alt="sarkar-chicory contributions 2025" width="400">
 
+Microsoft:
 **[saurabsa](https://github.com/saurabsa)**
+
+AWS:
+**[srbhsrkr](https://github.com/srbhsrkr)**
 
 ---
 
