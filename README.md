@@ -17,7 +17,8 @@ Builder based in Seattle. I work on AI agents, developer tools, and data infrast
 - [Riva](https://github.com/sarkar-ai-taken/riva) — Local-first observability and control plane for AI agents `Python`
 - [Simulation Data Miner (simminer)](https://github.com/light-valley-ai/simminer) - Infrastructure for AI-native photonics workflows
 - Presentation Buddy — AI-powered presentation assistant
-- Agent Harness Board - A message board for resource allocation management.
+- Agent Harness Board - A message board for resource allocation management
+- [TINY](https://github.com/sarkar-ai-taken/tiny-board) - Trusted INterface for Your agents
 
 
 **Developer Tools**
